@@ -1,0 +1,5 @@
+title: Windows Active Directory Homelab
+#logo:
+description: A simple setup of Active Directory through Oracle VirtualBox
+show_downloads: true
+theme: jekyll-theme-minimal
