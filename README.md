@@ -3,7 +3,8 @@
 
 1.	Download and install Oracle VirtualBox *
 3.	Download Windows 10 *
-4.	![alt text](assets/images/Screenshot 2024-06-06 185713.png)
+![Screenshot 2024-06-06 185713](https://github.com/DHowardTech/Active_Directory_Lab/assets/166935576/6276206b-7b13-4e31-b99c-08baf78026d5)
+
 5.	Download Windows Server 2016/2019/2022 *
 6.	Create a Windows Server (Domain Controller Virtual Machine *
 7.	Insert Guess Additions to CD Image to Domain Controller *
